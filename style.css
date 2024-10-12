@@ -1,0 +1,95 @@
+body {
+    background-color: #000; /* Fundo preto */
+    color: #fff; /* Texto branco */
+    font-family: Arial, sans-serif; /* Fonte padrão */
+    margin: 0;
+    padding: 20px; /* Espaço ao redor do conteúdo */
+}
+
+h2 {
+    text-align: center;
+    color: #fff; /* Título branco */
+}
+
+
+
+body {
+    background-color: #000; /* Fundo totalmente preto */
+    color: #fff; /* Texto branco */
+    font-family: Arial, sans-serif; /* Fonte padrão */
+    margin: 0;
+    padding: 20px; /* Espaço ao redor do conteúdo */
+}
+
+h2 {
+    text-align: center; /* Centraliza o título */
+    color: #fff; /* Título branco */
+    margin: 20px 0; /* Espaço acima e abaixo do título */
+}
+
+video {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+figure {
+    background: rgba(255, 255, 255, 0.1); /* Fundo branco com transparência para figuras */
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1); /* Sombra leve */
+}
+
+img {
+    width: 100%; /* Ajusta para o tamanho do container */
+    height: auto; /* Mantém a proporção */
+    border-radius: 5px; /* Bordas arredondadas nas imagens */
+}
+
+figcaption {
+    font-style: italic;
+    color: #ccc; /* Cor mais clara para a descrição */
+    text-align: center; /* Centraliza a descrição */
+    margin-top: 10px; /* Espaço acima da descrição */
+}
+
+
+
+
+video {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+figure {
+    background: rgba(255, 255, 255, 0.1); /* Fundo branco com transparência para figuras */
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1); /* Sombra leve */
+}
+
+img {
+    width: 100%; /* Ajusta para o tamanho do container */
+    height: auto; /* Mantém a proporção */
+    border-radius: 5px; /* Bordas arredondadas nas imagens */
+}
+
+figcaption {
+    font-style: italic;
+    color: #ccc; /* Cor mais clara para a descrição */
+    text-align: center; /* Centraliza a descrição */
+    margin-top: 10px; /* Espaço acima da descrição */
+}
